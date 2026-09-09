@@ -1,4 +1,6 @@
 # [Sample Repo] PR Practice
 A sample repo for practicing how to create Pull Requests
 
-New edit changes
+I would like to make a new edit 
+
+This is my second attempt at merging PR
